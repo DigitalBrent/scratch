@@ -16,5 +16,5 @@ function menu_shortcode($atts, $content = null) {
 }
     
 add_shortcode('menu', 'menu_shortcode');
-
+$randomvar = "hello";
 ?>
